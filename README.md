@@ -3,4 +3,4 @@ This program allows you to check the most famous crypto-currencies, it has a gra
 
 The "data.json" file saves all the data of the last checked crypto-currency.
 
-I screwed up programming using Tkinter: P
+Unfortunately I programmed it with Tkinter: P
